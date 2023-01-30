@@ -40,4 +40,7 @@ case
     else salary end
 as 'bonus'
 from Employees
+order by employee_id;
+
+
 
