@@ -1,1 +1,1 @@
-# Leetcode-SQL-study-plan-
+# Leetcode-SQL-study-plan-solutions
